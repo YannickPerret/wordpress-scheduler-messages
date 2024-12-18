@@ -1,0 +1,19 @@
+.message-periodique-wrapper {
+    margin: 20px 0;
+}
+
+.message-periodique {
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: rgba(240, 240, 240, 0.9);
+    color: #333;
+    font-size: 16px;
+}
+
+.message-periodique h3 {
+    margin: 0 0 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
